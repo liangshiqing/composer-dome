@@ -1,0 +1,13 @@
+{
+    "name": "liangshiqing/composer-dome",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "梁世庆",
+            "email": "liangshiqing@heqi-inc.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
